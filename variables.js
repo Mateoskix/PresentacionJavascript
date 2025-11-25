@@ -2,7 +2,7 @@ let promedio = (70 + 82 + 50 + 20) / 4;
 
 console.log(promedio);
 
-let num1 = 6;
+let num1 = 10;
 
 let resultadoNum1 = num1 ** 3;
 
